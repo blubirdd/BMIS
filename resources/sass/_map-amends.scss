@@ -1,0 +1,8 @@
+// _map-amends.scss
+
+$custom-colors:(
+    "custom-yellow": #EFF56D
+);
+
+//Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);

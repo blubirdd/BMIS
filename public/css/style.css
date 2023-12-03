@@ -1,0 +1,14 @@
+.preserveLines {
+    white-space: pre-wrap;
+}
+
+.info-box:hover {
+    background-color: #F2F4F4;
+    /*transform: scale(1.03) !important;*/
+}
+
+.cardBig:hover
+{
+    transform: scale(1.1) !important;
+}
+
